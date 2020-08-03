@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icn - tick</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF3B70" offset="0%"></stop>
+            <stop stop-color="#FF8057" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FF3B70" offset="0%"></stop>
+            <stop stop-color="#FF8057" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rollback-03---Success" transform="translate(-657.000000, -259.000000)">
+            <g id="icn---tick" transform="translate(658.000000, 260.000000)">
+                <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" cx="45" cy="45" r="45"></circle>
+                <polyline id="Path-2" stroke="url(#linearGradient-2)" stroke-width="3" stroke-linecap="round" points="19 43.9247747 34.6977619 62 71 29"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

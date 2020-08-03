@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="23px" viewBox="0 0 20 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bell-icon</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav-projects" transform="translate(-1011.000000, -24.000000)" fill="#647291" fill-rule="nonzero">
+            <g id="Group" transform="translate(995.000000, 7.000000)">
+                <path d="M26,40 C27.2941176,40 28.3529412,38.965 28.3529412,37.7 L23.6470588,37.7 C23.6470588,38.965 24.7058824,40 26,40 Z M33.6470588,33.1 L33.6470588,26.775 C33.6470588,23.21 31.1764706,20.335 27.7647059,19.53 L27.7647059,18.725 C27.7647059,17.805 26.9411765,17 26,17 C25.0588235,17 24.2352941,17.805 24.2352941,18.725 L24.2352941,19.53 C20.8235294,20.335 18.3529412,23.21 18.3529412,26.775 L18.3529412,33.1 L16,35.4 L16,36.55 L36,36.55 L36,35.4 L33.6470588,33.1 Z" id="bell-icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

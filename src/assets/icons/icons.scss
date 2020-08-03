@@ -1,0 +1,26 @@
+i[class*="icon-"] {
+    display: inline-block;
+    color: inherit;
+    font-size: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    height: 1em;
+    width: 1em;
+
+    &.icon-bell {
+        background-image: url('bell.svg');
+    }
+    &.icon-bolt {
+        background-image: url('bolt.svg');
+    }
+    &.icon-check {
+        background-image: url('check.svg');
+    }
+    &.icon-build {
+        background-image: url('build.svg');
+    }
+    &.icon-home {
+        background-image: url('home.svg');
+    }
+}
