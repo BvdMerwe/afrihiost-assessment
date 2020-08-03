@@ -12,7 +12,7 @@
           </div>
           <div class="bottom-controls">
               <CTA href="#" class="justify-start" @click.native="back">Back</CTA>
-              <CTA href="#" class="justify-end" :class="[!selected.id ? 'discrete disabled' : 'outline']" @click.native="confirm">Next</CTA>
+              <CTA href="#" class="justify-end" :class="[!selected.id && selected.id != 0 ? 'discrete disabled' : 'outline']" @click.native="confirm">Next</CTA>
               <!-- <CTA href="#" class="justify-end outline" @click.native="confirm">Next</CTA> -->
           </div>
       </div>

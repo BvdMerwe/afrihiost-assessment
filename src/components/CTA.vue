@@ -47,6 +47,10 @@ export default {
     &.disabled {
         // pointer-events: none;
         cursor: not-allowed;
+        
+        &:active {
+            pointer-events: none;
+        }
     }
     &:hover:not(.discrete) {
         background-color: #11141D;
